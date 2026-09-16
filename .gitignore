@@ -1,0 +1,22 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas de editores de código y IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Registros y logs de depuración
+*.log
+npm-debug.log*
+
+# Archivos de entorno (en caso de usar claves de API o variables locales)
+.env
+.env.local
+
+# Archivos o carpetas temporales
+.cache/
+tmp/
